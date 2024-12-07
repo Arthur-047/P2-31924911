@@ -1,0 +1,11 @@
+sql
+
+CREATE TABLE contacto (
+correo VARCHAR NOT NULL,
+nombre VARCHAR NOT NULL,
+comentario VARCHAR NOT NULL,
+);
+
+INSERT INTO contacto (
+correo, nombre, gmail
+)VALUES ()
